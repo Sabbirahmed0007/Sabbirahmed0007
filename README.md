@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://i.ibb.co/k4FXZKS/2e4ad780-22d4-11eb-9462-c592865da9eb.png" alt="Banner" />
+</p>
+
+
 #  Hey, I'm Sabbir Ahmed, a passionate Front-End Developer dedicated to creating seamless and captivating web experiences.
 
 
@@ -29,9 +35,9 @@
 <p align="center"> <a href="https://www.github.com/sabbirahmed0007.github.io " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
 
-<b>My GitHub Stats</b>
 
 <p align="center">
+<b>My GitHub Stats</b>
  
   <a href="https://github.com/sabbirahmed0007">
     <img src="https://github-readme-stats.vercel.app/api?username=sabbirahmed0007&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="sabbirahmed0007's GitHub stats" />
