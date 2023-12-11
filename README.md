@@ -22,9 +22,10 @@
 </p> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= html,css, tailwind, js, git,github,vite, express,figma,firebase,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vite,express,figma,firebase,nodejs" alt="Tech Stack" />
   </a>
 </p>
+
 
 ### Socials
 
