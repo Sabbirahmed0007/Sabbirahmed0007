@@ -1,4 +1,4 @@
-###  Hey, I'm Sabbir Ahmed, a passionate Front-End Developer dedicated to creating seamless and captivating web experiences.
+#  Hey, I'm Sabbir Ahmed, a passionate Front-End Developer dedicated to creating seamless and captivating web experiences.
 
 
 
@@ -27,5 +27,9 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sabbirahmed0007.github.io "><img src="https://github-readme-stats.vercel.app/api?username=sabbirahmed0007.github.io &show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sabbirahmed0007.github.io 's GitHub stats" /></a>
+
+<!--Github Streak  -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sabbirahmed0007)](https://git.io/streak-stats)
 
 <a href="http://www.github.com/sabbirahmed0007.github.io "><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirahmed0007.github.io &stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
