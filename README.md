@@ -55,8 +55,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sabbirahmed0007" alt="GitHub Streak" />
   </a><br/>
 
-  <a href="https://github.com/Sabbirahmed0007">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sabbirahmed0007&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+   <a href="https://github.com/Sabbirahmed0007">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sabbirahmed0007&theme=github" alt="GitHub Commits Graph" />
   </a><br/>
 
   <a href="https://github.com/Sabbirahmed0007">
