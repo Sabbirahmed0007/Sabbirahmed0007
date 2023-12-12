@@ -36,6 +36,8 @@
 
 
 
+
+
 ### Badges
 
 
@@ -47,7 +49,7 @@
   </a>
 </p>
 
-
+ [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 <!--Github Streak  -->
 
@@ -55,11 +57,13 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sabbirahmed0007" alt="GitHub Streak" />
   </a><br/><br/><br/>
+  
 
   <a href="https://github.com/Sabbirahmed0007">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirahmed0007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </p>
+
 
 
 
