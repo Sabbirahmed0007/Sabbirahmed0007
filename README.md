@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/sabbir-ahmed-19503b195" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" style="margin-left: 10px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" style="margin-left: 10px; border:2px red" />
   </a>
 </p>
 
