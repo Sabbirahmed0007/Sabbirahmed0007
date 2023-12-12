@@ -55,9 +55,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sabbirahmed0007" alt="GitHub Streak" />
   </a><br/>
 
-   <a href="https://github.com/Sabbirahmed0007">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sabbirahmed0007&theme=github" alt="GitHub Commits Graph" />
-  </a><br/>
+   <a href="http://www.github.com/sabbirahmed0007.github.io "><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sabbirahmed0007.github.io &bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br/>
 
   <a href="https://github.com/Sabbirahmed0007">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirahmed0007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
