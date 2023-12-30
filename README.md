@@ -3,9 +3,10 @@
   <img src="https://i.ibb.co/k4FXZKS/2e4ad780-22d4-11eb-9462-c592865da9eb.png" alt="Banner" />
 </p>
 
-<p align='center'>
-    #  Hey, I'm Sabbir Ahmed, Junior front-end developer.
+<p align='center' style='font-size: 1.5em;'>
+     Hey, I'm Sabbir Ahmed, Junior front-end developer.
 </p>
+
 
 
 
