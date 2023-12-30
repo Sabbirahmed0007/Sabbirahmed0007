@@ -4,7 +4,7 @@
 </p>
 
 
-#  Hey, I'm Sabbir Ahmed, a passionate Front-End Developer dedicated to creating seamless and captivating web experiences.
+#  Hey, I'm Sabbir Ahmed, Junior front-end developer.
 
 
 
