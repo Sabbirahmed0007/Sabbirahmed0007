@@ -71,12 +71,12 @@
 </p>
 <br /><br /><br />
 
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
 <b>Top Repositories</b>
   <a href="https://github.com/sabbirahmed0007/Sabbirahmed0007" align="center">
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sabbirahmed0007&repo=Sabbirahmed0007&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-</div>
+</div> -->
 
 <br /><br /><br /><br />
 
