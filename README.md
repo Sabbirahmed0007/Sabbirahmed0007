@@ -12,7 +12,7 @@
 
 
 - 🔭 Currently, I'm immersed in crafting  my portfolio website showcase my latest projects and skills.
-- 🌱 Learning is a never-ending journey, and right now, I'm diving into Next.js and exploring the creative possibilities of Three.js.
+<!-- - 🌱 Learning is a never-ending journey, and right now, I'm diving into Next.js and exploring the creative possibilities of Three.js. -->
 <!-- - 👯 I'm open to collaboration on exciting projects that push the boundaries of front-end development. -->
 - 🤔 Seeking help with something or just want to chat about coding? Feel free to reach out—I'm here to connect and learn from the community.
 - 💬 Ask me about React, front-end architecture, or anything web development-related—I'm always up for a tech chat!
