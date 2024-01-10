@@ -59,15 +59,20 @@
 <!--Github Streak  -->
 
 <p align="center">
-   <a href="https://git.io/streak-stats">
+   <!-- <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sabbirahmed0007" alt="GitHub Streak" />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sabbirahmed0007" alt="GitHub Streak" /></a>
+    </a> -->
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sabbirahmed0007" alt="GitHub Streak" />
   </a><br/><br/><br/>
 
+
+<!-- Contribution -->
   <a href="https://github.com/Sabbirahmed0007">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabbirahmed0007&theme=aura_dark"/>
   </a>
   
+
+  <!-- Top languages -->
 
   <a href="https://github.com/Sabbirahmed0007">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirahmed0007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
@@ -75,12 +80,12 @@
 </p>
 <br /><br /><br />
 
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
 <b>Top Repositories</b>
   <a href="https://github.com/sabbirahmed0007/a11-online-group-study-client" align="center">
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sabbirahmed0007&repo=Sabbirahmed0007&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-</div>
+</div> -->
 
 <br /><br /><br /><br />
 
