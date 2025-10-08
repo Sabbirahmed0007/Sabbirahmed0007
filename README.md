@@ -41,7 +41,7 @@
 <!--Github Streak  -->
 
 <p align="center">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sabbirahmed0007&hide_border=true&theme=dracula" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sabbirahmed0007&theme=dracula" alt="GitHub Streak" /></a>
    <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
 
 <br/><br/><br/>
