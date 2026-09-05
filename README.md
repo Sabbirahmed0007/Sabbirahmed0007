@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-     Hey, I'm Sabbir Ahmed, Junior front-end developer.
+     Hey, I'm Sabbir Ahmed.
 </h2>
 
 - 🔭 Currently, I'm immersed in crafting my portfolio website showcase my latest projects and skills.
